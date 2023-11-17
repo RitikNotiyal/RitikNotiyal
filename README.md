@@ -1,4 +1,4 @@
-![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*Wqsjmur4YbYp8-rBNNa_dA.gif)
 <h1 align="center">Hi 👋, I'm Ritik Notiyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img aling="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
