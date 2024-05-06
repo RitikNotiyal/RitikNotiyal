@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AKTK**
+- 🌱 I’m currently learning **React Js**
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **notiyalritik402@gmail.com**
 
